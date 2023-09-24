@@ -258,6 +258,10 @@ Currency.moneyFormats = {
     "money_format":"{{amount}} NIS",
     "money_with_currency_format":"{{amount}} NIS"
   },
+  "IQD":{
+    "money_format":"{{amount}} IQD",
+    "money_with_currency_format":"{{amount}} IQD"
+  },
   "JMD":{
     "money_format":"${{amount}}",
     "money_with_currency_format":"${{amount}} JMD"
